@@ -1,5 +1,11 @@
 ## Olá!! Eu sou a Bianca Hoffer 👋
 
+<div>
+  👋 Oi, sou [Seu Nome], uma Dev Front-end apaixonada por criar código mágico! ✨💻 <br/><br/>
+
+🚀 Desenvolvo com React.js e Wordpress, transformando linhas de código em experiências digitais incríveis! Desde eCommerces cheios de vida até landing pages que fazem os olhos brilharem, estou aqui para deixar a web mais bonita e funcional.
+</div>
+
 <div align="center">
   <a href="https://github.com/biancahoffer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biancahoffer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
