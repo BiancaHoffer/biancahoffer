@@ -3,6 +3,8 @@
 <div>
 
 🚀 Desenvolvo com React.js e Wordpress, transformando linhas de código em experiências digitais incríveis! Desde eCommerces cheios de vida até landing pages que fazem os olhos brilharem, estou aqui para deixar a web mais bonita e funcional.
+<br/><br/>
+Keep coding awesome! 💫
 </div>
 
 <div align="center">
