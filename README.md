@@ -1,7 +1,6 @@
 ## Olá!! Eu sou a Bianca Hoffer 👋
 
 <div>
-  👋 Oi, sou [Seu Nome], uma Dev Front-end apaixonada por criar código mágico! ✨💻 <br/><br/>
 
 🚀 Desenvolvo com React.js e Wordpress, transformando linhas de código em experiências digitais incríveis! Desde eCommerces cheios de vida até landing pages que fazem os olhos brilharem, estou aqui para deixar a web mais bonita e funcional.
 </div>
