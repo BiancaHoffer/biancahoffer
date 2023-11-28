@@ -1,8 +1,8 @@
-## Olá!! Eu sou a Bianca Hoffer 👋
+## Olá!! Eu sou a Bianca👋
 
 <div>
 
-🚀 Desenvolvo com React.js e Wordpress, transformando linhas de código em experiências digitais incríveis! Desde eCommerces cheios de vida até landing pages que fazem os olhos brilharem, estou aqui para deixar a web mais bonita e funcional.
+🚀 Meu objetivo é transformar linhas de código em experiências digitais incríveis! Desde eCommerces até landing pages, foco para criar projetos funcionais e bonitos!
 <br/><br/>
 Keep coding awesome! 💫
 </div>
