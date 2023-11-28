@@ -2,7 +2,7 @@
 
 <div>
 
-🚀 Meu objetivo é transformar linhas de código em experiências digitais incríveis! Desde eCommerces até landing pages, foco para criar projetos funcionais e bonitos!
+🚀 Meu objetivo é transformar linhas de código em experiências digitais incríveis! Desde eCommerces até landing pages, meu foco é criar projetos funcionais e bonitos!
 <br/><br/>
 Keep coding! 💫
 </div>
