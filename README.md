@@ -8,7 +8,7 @@
 <br/>
 🚀 My goal is to turn lines of code into amazing digital experiences! From eCommerces to landing pages, my focus is on creating functional and beautiful projects!
 
-<br/>
+<br/><br/>
 
 Keep coding! 💫
 </div>
