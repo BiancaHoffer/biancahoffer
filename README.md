@@ -15,7 +15,7 @@ Keep coding! 💫
 </div>
 <div align="center">
   <a href="https://github.com/biancahoffer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biancahoffer&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancahoffer&layout=compact&langs_count=7&theme=material-palenight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biancahoffer&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" target="_black"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancahoffer&layout=compact&langs_count=7&theme=material-palenight" target="_black"/>
 </div> 
 
